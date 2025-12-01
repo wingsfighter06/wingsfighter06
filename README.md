@@ -1,5 +1,5 @@
 # Hi👋, mein Name ist Navin
-<a href="https://www.instagram.com/wingsfighter1/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/wingsfighter1/">
   <img src="https://github.com/user-attachments/assets/e485f844-dde6-4ba4-904a-61acc7cd488c" width="50" />
 <a/>
 
