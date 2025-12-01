@@ -1,6 +1,6 @@
 # Hi👋, mein Name ist Navin
-[![Instagram](<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/e485f844-dde6-4ba4-904a-61acc7cd488c" />)](https://www.instagram.com/wingsfighter1/)
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/e485f844-dde6-4ba4-904a-61acc7cd488c" />
+[![Instagram](https://github.com/user-attachments/assets/e485f844-dde6-4ba4-904a-61acc7cd488c)](https://www.instagram.com/wingsfighter1/)
+
 ## 🙋‍♂️ Über mich
 Ich bin aktuell Schüler und lerne das Programmieren und die Netzwerksystemtechnik.
 
