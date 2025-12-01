@@ -7,7 +7,7 @@ Ich bin aktuell Schüler und lerne das Programmieren und die Netzwerksystemtechn
 - HTML / CSS
 
 ## 👨‍💻 Aktuelle Projekte
-- Peng
+- Peng (DQI23)
 
 ## 🎯 Meine Ziele
 - Besser in Python werden
