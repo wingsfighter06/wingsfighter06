@@ -2,18 +2,12 @@
 
 Ich bin aktuell Schüler und lerne das Programmieren und die Netzwerksystemtechnik.
 
----
-
 ## 🔧 Technologien, die ich benutze oder lerne
 - Python (Schule)
 - HTML / CSS
 
----
-
 ## 👨‍💻 Aktuelle Projekte
 - Peng
-
----
 
 ## 🎯 Meine Ziele
 - Besser in Python werden
